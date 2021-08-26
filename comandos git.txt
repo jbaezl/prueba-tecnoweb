@@ -1,0 +1,2 @@
+Para verificar instalacion de git:
+git --version
